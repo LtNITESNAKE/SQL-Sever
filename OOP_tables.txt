@@ -1,0 +1,1 @@
+course:mid,final,lab,hours
